@@ -31,5 +31,8 @@ end
 def void_last_transaction
   @total = @total - @last_item
 end
+<<<<<<< HEAD
 
+=======
+>>>>>>> 36385a3213a6dddd3f2358334efadc5e9e6b3404
 end
